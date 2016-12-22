@@ -1,4 +1,7 @@
 # 5_lang_frequency
 
-User should put path to the txt file into variable filepath (for example: filepath = 'sample_text/text.txt')
-Then program prints to the console list of 10 most frequent words in lowercase.
+Program ask user for a path to txt file and prints into console list of 10 most frequent words in decreasing order.
+
+Launch with -h flag is you want to open help:
+
+python lang_frequency.py -h
